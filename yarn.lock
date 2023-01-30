@@ -792,10 +792,10 @@
     keymirror "^0.1.1"
     prop-types "^15.5.10"
 
-"@getyoti/react-native-yoti-doc-scan@^1.13.2":
-  version "1.13.2"
-  resolved "https://registry.yarnpkg.com/@getyoti/react-native-yoti-doc-scan/-/react-native-yoti-doc-scan-1.13.2.tgz#da525b3cfd514662e55bade5ecaf6580406bc375"
-  integrity sha512-R4fNrlUBguq+kafNTrIqL3Cy9xuII2zwNeEqF+m2gxrkyB/TdJK0qLR5lgMcSjABeQgmvcUo2vgzBJMxlPF9+w==
+"@getyoti/react-native-yoti-doc-scan@^1.13.3":
+  version "1.13.3"
+  resolved "https://registry.yarnpkg.com/@getyoti/react-native-yoti-doc-scan/-/react-native-yoti-doc-scan-1.13.3.tgz#bf750b4443f426e0a467a68ead41b7e49f88c961"
+  integrity sha512-NUWV5lPzKtl9rsu3gugSAXx23YPgpzA2jsK9qwIiCnCTkxFFgW9mOjldNK+b543B0SMBpcwqeF8MJCB2mWwrrw==
   dependencies:
     keymirror "^0.1.1"
     prop-types "^15.7.2"
