@@ -28,6 +28,9 @@ target 'yotiTesting' do
   #
   # Note that if you have use_frameworks! enabled, Flipper will not work and
   # you should disable the next line.
+  # use_frameworks!
+  use_frameworks! :linkage => :static
+  use_native_modules!
   use_flipper!()
 
   post_install do |installer|
